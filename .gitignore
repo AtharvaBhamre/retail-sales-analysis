@@ -1,0 +1,25 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+
+# Backup dataset
+data/sales_backup.csv
