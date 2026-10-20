@@ -1,0 +1,5 @@
+RETAIL SALES ANALYSIS SUMMARY
+===================================
+Total records: 9,994
+Total sales: 2,297,200.86
+Total profit: 286,397.02

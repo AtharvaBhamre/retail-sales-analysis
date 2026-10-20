@@ -1,0 +1,48 @@
+RETAIL SALES ANALYTICS — KEY FINDINGS
+=============================================
+
+OVERALL PERFORMANCE
+Total sales: $2,297,200.86
+Total profit: $286,397.02
+Unique orders: 5,009
+Data rows: 9,994
+Overall profit margin: 12.47%
+Units sold: 37,873
+
+1. TOP CATEGORY BY SALES
+Technology: $836,154.03
+
+2. MOST PROFITABLE REGION
+West: $108,418.45 profit
+
+3. MONTH WITH HIGHEST SALES
+2017-11: $118,447.82
+First month in data: 2014-01
+Last month in data: 2017-12
+
+4. TOP PRODUCT BY SALES
+Canon imageCLASS 2200 Advanced Copier
+Sales: $61,599.82
+
+5. DISCOUNT AND PROFIT RELATIONSHIP
+Pearson correlation: -0.219
+Negative association in this dataset.
+Correlation does not prove that discounts cause changes in profit.
+
+AVERAGE PROFIT BY DISCOUNT LEVEL
+0% discount: $66.90 average profit (4798 records)
+10% discount: $96.06 average profit (94 records)
+15% discount: $27.29 average profit (52 records)
+20% discount: $24.70 average profit (3657 records)
+30% discount: $-45.68 average profit (227 records)
+32% discount: $-88.56 average profit (27 records)
+40% discount: $-111.93 average profit (206 records)
+45% discount: $-226.65 average profit (11 records)
+50% discount: $-310.70 average profit (66 records)
+60% discount: $-43.08 average profit (138 records)
+70% discount: $-95.87 average profit (418 records)
+80% discount: $-101.80 average profit (300 records)
+
+NOTE
+These findings describe the supplied dataset only.
+They do not establish causation or guarantee future performance.
